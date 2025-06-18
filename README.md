@@ -1,5 +1,5 @@
 # Naukari.com-DataScienceJobs-QueryAnalysis
-# Part A: Query Analysis
+# Part A: Data Extraction / Scraping
 1. Extracted job openings for Data scince tag from naukari.com which are more than 12000+
 2. This was done by going through more than 850 pages of naukari.com.
 3. Then that data is stored as .csv in 'Database' folder.
