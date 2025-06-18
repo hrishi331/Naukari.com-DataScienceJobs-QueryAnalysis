@@ -9,7 +9,7 @@
 # Part B: Query Analysis
 ## Filter data by - 
 1. Remote / hybrid job location only.
-2. Experince starting from 0 or 1 or 2 only. [Freshers]
+2. Experince starting from 0 Yrs or 1 Yrs or 2 Yrs only. [Freshers]
 
 ## Queries
 1. How many openings are there by jobtitle-wise?
