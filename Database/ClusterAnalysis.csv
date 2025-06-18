@@ -1,0 +1,145 @@
+,cluster,label,count
+0,salaryRange,0-3 Lakhs,1126
+1,salaryRange,3-6 Lakhs,5913
+2,salaryRange,6-10 Lakhs,9641
+3,salaryRange,10-15 Lakhs,7346
+4,salaryRange,15-25 Lakhs,4516
+5,salaryRange,25-50 Lakhs,3081
+6,salaryRange,50-75 Lakhs,549
+7,salaryRange,75-100 Lakhs,145
+8,salaryRange,1-5 Cr,37
+9,wfhType,Work from office,15283
+10,wfhType,Remote,1383
+11,wfhType,Hybrid,1166
+12,topGroupId,Accenture,322
+13,topGroupId,Wipro,283
+14,topGroupId,IBM,216
+15,topGroupId,PwC Service Delivery Center,128
+16,topGroupId,Merck Sharp & Dohme (MSD),99
+17,topGroupId,Goldman Sachs,75
+18,topGroupId,Photon,72
+19,topGroupId,Optum,70
+20,topGroupId,Capgemini,65
+21,topGroupId,KPMG India,59
+22,topGroupId,Pepsico,58
+23,topGroupId,Infosys,54
+24,topGroupId,Fractal Analytics,51
+25,topGroupId,Target,46
+26,topGroupId,Apple,46
+27,stipend,Unpaid,81
+28,stipend,0-10k,2
+29,stipend,10k-20k,3
+30,stipend,20k-30k,4
+31,stipend,50k and above,1
+32,employement,Company Jobs,16088
+33,employement,Consultant Jobs,1744
+34,featuredCompanies,The Hackett Group,1
+35,featuredCompanies,Virtusa,1
+36,featuredCompanies,IQVIA,3
+37,featuredCompanies,Kyndryl,7
+38,featuredCompanies,Capgemini,65
+39,featuredCompanies,Cardinal Health,1
+40,featuredCompanies,Tech Mahindra,8
+41,business_size,Foreign MNC,4746
+42,business_size,Corporate,2453
+43,business_size,Indian MNC,1100
+44,business_size,Startup,817
+45,business_size,Others,23
+46,business_size,Govt/PSU,7
+47,business_size,MNC,2
+48,citiesGid,Bengaluru,6209
+49,citiesGid,Hyderabad,3683
+50,citiesGid,Delhi / NCR,2914
+51,citiesGid,Pune,2805
+52,citiesGid,Mumbai (All Areas),2212
+53,citiesGid,Chennai,2123
+54,citiesGid,Mumbai,1810
+55,citiesGid,Gurugram,1292
+56,citiesGid,New Delhi,829
+57,citiesGid,Kolkata,751
+58,citiesGid,Noida,663
+59,citiesGid,Ahmedabad,381
+60,citiesGid,Indore,174
+61,citiesGid,Jaipur,173
+62,citiesGid,Kochi,155
+63,citiesGid,Navi Mumbai,141
+64,citiesGid,Coimbatore,124
+65,citiesGid,Thiruvananthapuram,85
+66,citiesGid,Nagpur,82
+67,citiesGid,Mohali,82
+68,citiesGid,Thane,80
+69,citiesGid,Surat,69
+70,citiesGid,Chandigarh,56
+71,citiesGid,Vadodara,56
+72,citiesGid,Bhubaneswar,55
+73,functionalAreaGid,Data Science & Analytics,8186
+74,functionalAreaGid,Engineering - Software & QA,7694
+75,functionalAreaGid,IT & Information Security,274
+76,functionalAreaGid,Other,224
+77,functionalAreaGid,Finance & Accounting,220
+78,functionalAreaGid,Project & Program Management,153
+79,functionalAreaGid,"Customer Success, Service & Operations",134
+80,functionalAreaGid,"BFSI, Investments & Trading",129
+81,functionalAreaGid,Product Management,127
+82,functionalAreaGid,Research & Development,118
+83,functionalAreaGid,Consulting,85
+84,functionalAreaGid,Sales & Business Development,76
+85,functionalAreaGid,Human Resources,75
+86,functionalAreaGid,Marketing & Communication,53
+87,functionalAreaGid,"UX, Design & Architecture",48
+88,internshipDuration,2 Months,2
+89,internshipDuration,3 Months,17
+90,internshipDuration,4 Months,3
+91,internshipDuration,5 Months,1
+92,internshipDuration,6 Months,13
+93,internshipDuration,Flexible,55
+94,ugCourseGid,Any Graduate,14677
+95,ugCourseGid,B.Tech/B.E.,2932
+96,ugCourseGid,B.Sc,456
+97,ugCourseGid,BCA,364
+98,ugCourseGid,B.B.A/ B.M.S,242
+99,ugCourseGid,B.A,142
+100,ugCourseGid,B.Com,119
+101,ugCourseGid,Diploma,110
+102,ugCourseGid,Graduation Not Required,60
+103,ugCourseGid,B.Pharma,11
+104,ugCourseGid,LLB,11
+105,ugCourseGid,B.Ed,9
+106,ugCourseGid,BFA,8
+107,glbl_RoleCat,Software Development,6067
+108,glbl_RoleCat,Data Science & Machine Learning,4327
+109,glbl_RoleCat,Business Intelligence & Analytics,3328
+110,glbl_RoleCat,DBA / Data warehousing,972
+111,glbl_RoleCat,Data Science & Analytics - Other,531
+112,glbl_RoleCat,Quality Assurance and Testing,448
+113,glbl_RoleCat,Other,224
+114,glbl_RoleCat,DevOps,207
+115,glbl_RoleCat,Finance,183
+116,glbl_RoleCat,IT Infrastructure Services,118
+117,pgCourseGid,Any Postgraduate,13501
+118,pgCourseGid,M.Tech,563
+119,pgCourseGid,MBA/PGDM,553
+120,pgCourseGid,MCA,550
+121,pgCourseGid,MS/M.Sc(Science),393
+122,pgCourseGid,LLM,267
+123,pgCourseGid,Post Graduation Not Required,251
+124,pgCourseGid,CA,105
+125,pgCourseGid,M.Com,64
+126,pgCourseGid,Medical-MS/MD,64
+127,pgCourseGid,M.A,33
+128,pgCourseGid,PG Diploma,30
+129,industryTypeGid,IT Services & Consulting,9878
+130,industryTypeGid,Software Product,1089
+131,industryTypeGid,Financial Services,678
+132,industryTypeGid,Recruitment / Staffing,532
+133,industryTypeGid,Management Consulting,491
+134,industryTypeGid,Internet,455
+135,industryTypeGid,Pharmaceutical & Life Sciences,441
+136,industryTypeGid,Analytics / KPO / Research,369
+137,industryTypeGid,Banking,347
+138,industryTypeGid,Advertising & Marketing,220
+139,industryTypeGid,Biotechnology,202
+140,industryTypeGid,Medical Services / Hospital,176
+141,industryTypeGid,BPM / BPO,168
+142,industryTypeGid,Insurance,158
+143,industryTypeGid,Retail,158
