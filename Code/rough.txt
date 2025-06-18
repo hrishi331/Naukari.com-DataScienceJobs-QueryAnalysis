@@ -1,0 +1,5 @@
+url : 
+https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=data%20scientist&pageNo=2&sort=r&k=data%20scientist&nignbevent_src=jobsearchDeskGNB&seoKey=data-scientist-jobs-2&src=seo_srp&latLong=&sid=17501426147053681
+
+
+
